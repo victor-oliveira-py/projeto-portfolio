@@ -148,6 +148,7 @@ article h2{
   margin-bottom: 10px;
 }
 
+
 #skill-container{
   display: grid;
   grid-template-columns: 1fr;
@@ -190,3 +191,4 @@ article h2{
   }
   
 }
+
