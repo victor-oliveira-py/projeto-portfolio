@@ -2,7 +2,7 @@ const botao = document.getElementById('botao-tema');
 const body = document.body;
 
 // Persistência do tema
-const temasalvo = localStorage.getItem('tema');
+const temasalvo = localStorage.getItem('botao-tema');
 temaEscuro(temasalvo === 'escuro');
 
 // Função para alternar entre tema claro e escuro
